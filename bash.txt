@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "SOLVED #4: Median of Two Sorted Arrays - Binary Search with O(log(n))"
+
+git push
